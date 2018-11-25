@@ -1,0 +1,15 @@
+The document outline:
+
+1. HTML Essential Training
+    1. Structuring Pages
+        1. Conveying meaning through structure
+        2. Sectioning elements
+        3. Document outlines
+        4. W3C Warning
+        5. WAI-ARIA Roles
+
+Structural tags:
+<nav> is being used for the navigation of the site (the links that take you to other pages)
+<article> is being used to wrap up the main content of the page
+<section> is being used to divide main content which is already wraped in article to smaller parts - sections
+<aside> is being used for the content that is related to the main conted but is of a lesser importance
